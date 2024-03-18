@@ -34,14 +34,17 @@ Colisões: Embora o hash minimize colisões, elas ainda podem acontecer, para ev
 
 
 #### Buscar cliente.
-![image](https://github.com/Cyo4k/SistemCaixa/assets/93006521/00b1a180-5dac-4fa7-8acc-8d010e101f07)
+![image](https://github.com/Cyo4k/SistemaDeCaixa/assets/93006521/0a26370e-1872-4517-881b-f0d801e617cf)
+
 
 #### Cadastrar cliente.
-![image](https://github.com/Cyo4k/SistemCaixa/assets/93006521/f836b1ea-9e5a-4f35-8f94-478a4efb4ee9)
+![image](https://github.com/Cyo4k/SistemaDeCaixa/assets/93006521/68af9550-b711-4924-8ebc-95fa86134e9f)
+
 
 
 ### Prévia do codigo fonte:
 
 #### SistemaDeCaixa.java
 
-![image](https://github.com/Cyo4k/SistemCaixa/assets/93006521/c1260923-0d04-4a47-a783-2d7f23b27cf3)
+![image](https://github.com/Cyo4k/SistemaDeCaixa/assets/93006521/fa16ffa5-889e-4920-ad29-fbb2794cb884)
+
